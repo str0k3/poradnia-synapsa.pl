@@ -1,0 +1,1 @@
+# poradnia-synapsa.pl
