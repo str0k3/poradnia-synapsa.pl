@@ -99,7 +99,7 @@ ul.arrow li{position: relative;margin: 10px 0;background: transparent url('../im
 
 #partners{border-top: 1px solid #fff;background: #f2f2f2 url(../img/synapsa_02.png) no-repeat 50% 110px;height: 215px;}
 #partners h4{color: #b2b2b2;text-align: center;padding-top: 40px;}
-#partners ul li{display: inline;margin: 0 45px; position: relative;}
+#partners ul li{display: inline;margin: 0 30px; position: relative;}
 #partners ul li a{color: #797979;font-size: 22px;}
 #partners #ul_1, #partners #ul_2{position: absolute;top: 135px;}
 #partners #ul_1{left: 0;}
